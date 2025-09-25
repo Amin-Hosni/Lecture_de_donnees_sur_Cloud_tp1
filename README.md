@@ -1,2 +1,2 @@
 # Lecture_de_donnees_sur_Cloud_tp1
-Lecture_de_donnees_sur_Cloud_tp1
+Lecture_de_donnees_sur_Cloud_tp1: Ce code, conçu pour une carte ESP8266, se connecte à un réseau Wi-Fi spécifié et interagit avec le service cloud ThingSpeak. Il extrait périodiquement, toutes les 5 secondes, la derniére valeur de température stockée dans un champ défini d'une chaîne ThingSpeak. La valeur lue est ensuite affichée sur le moniteur série, accompagnée du message "Current temp is: X°C".
