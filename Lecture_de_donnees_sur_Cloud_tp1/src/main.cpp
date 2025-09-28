@@ -5,8 +5,8 @@ char ssid[] = "Ooredoo _S20_4EBF" ;
 char pass[] = "7730C317" ;
 WiFiClient client;
 // Configuration ThingSpeak
-unsigned long myChannelNumber = 455630;  
-const char * myWriteAPIKey = "JOMKSF62IFOY42XO";
+unsigned long myChannelNumber = 3092632;  
+const char * myWriteAPIKey = "E636ZLBIAWWU5YIQ";
 unsigned int temperatureField=1;
 void setup(){
   Serial.begin(115200);
